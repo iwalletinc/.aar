@@ -20,7 +20,7 @@ val getBitmap =
                 if (byteArray !== null) {
                     val image = BitmapFactory.decodeByteArray(byteArray, 0, byteArray.size)
                 	}
-            	}
+            	    }
         	}
 
     	}
